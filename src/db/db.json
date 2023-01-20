@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nombre": "Monitor V2223 LCD",
+            "precio": 15000,
+            "cantidad": 1,
+            "src": "https://cdn.pixabay.com/photo/2012/02/28/00/52/blank-17894_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Notebook plateada 15.6",
+            "precio": 1000,
+            "cantidad": 1,
+            "src": "https://cdn.pixabay.com/photo/2010/12/13/09/52/computer-1881_960_720.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Auriculares inalámbricos",
+            "precio": 2900,
+            "cantidad": 1,
+            "src": "https://cdn.pixabay.com/photo/2016/03/01/19/09/headphones-1230987_960_720.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Mouse inalámbrico NX-",
+            "precio": 1500,
+            "cantidad": 1,
+            "src": "https://cdn.pixabay.com/photo/2012/03/01/01/33/mouse-20223_960_720.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Pendrive 32 Gb Usb 3.2",
+            "precio": 9320,
+            "cantidad": 1,
+            "src": "https://cdn.pixabay.com/photo/2013/09/17/09/49/pendrive-183146_960_720.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Disco Rígido 2 3.5",
+            "precio": 790,
+            "cantidad": 1,
+            "src":"https://cdn.pixabay.com/photo/2020/03/27/07/36/technology-4972684_960_720.jpg"
+        }
+    ],
+    "carrito" : []
+}
